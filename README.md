@@ -5,16 +5,15 @@
 
 ---
 
-### 🔥 **About Me**
-- 🐍 Python | 🎮 C++ | 🐚 Bash scripting enthusiast
-- 🔥 Flask & FastAPI backend developer
-- 🔓 Security researcher & Metasploit framework user
-- 💻 Open source contributor & hacker at heart
-- 🛠️ Building tools that break and fix systems
+- Python | C++ | Bash scripting enthusiast
+- Flask & FastAPI backend developer
+- Security researcher & Metasploit framework user
+- Open source contributor & hacker at heart
+- Building tools that break and fix systems
 
 ---
 
-### ⚡ **Tech Stack**
+### **Tech Stack**
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,15 +33,7 @@
 
 ---
 
-### 🚀 **My Projects**
-- [RedTeam-Toolkit](https://github.com/theblackhawk/RedTeam-Toolkit) - Offensive security tools collection
-- [API-Pentest-Framework](https://github.com/theblackhawk/API-Pentest-Framework) - Automated API security testing
-- [Bash-For-Hackers](https://github.com/theblackhawk/Bash-For-Hackers) - Useful bash scripts for security work
-- [Flask-Hardened](https://github.com/theblackhawk/Flask-Hardened) - Security-focused Flask template
-
----
-
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theblackhawk&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblackhawk&layout=compact&theme=dark&hide_border=true" />
@@ -54,7 +45,7 @@
 
 ---
 
-### 🔗 **Connect With Me**
+### **Connect With Me**
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square)](https://app.hackthebox.com/profile/yourid)

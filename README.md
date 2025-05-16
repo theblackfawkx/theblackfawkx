@@ -1,4 +1,3 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> Hello World! I'm [theblackhawk](https://github.com/theblackhawk) 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=24&duration=3000&pause=1000&color=00F728&center=true&vCenter=true&width=435&lines=Open+Source+Developer;Python%2FC%2B%2B+Hacker;Security+Researcher;Flask%2FFastAPI+Dev;Bash+Scripting+Wizard" alt="Typing SVG" />

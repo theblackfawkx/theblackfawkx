@@ -8,15 +8,15 @@
 
 ---
 
-## 🕶️ About
+## 🕶About
 
 - 👾 Security enthusiast | 🐧 Linux native | 🛠️ Reverse engineer  
-- 🧠 Passionate about exploit development & low-level internals  
-- 🧩 Always learning. Always lurking.  
+- Passionate about exploit development & low-level internals  
+- Always learning. Always lurking.  
 
 ---
 
-## 🧰 Tools of the Trade
+## Tools
 
 - 🐍 Python | ⛏️ Assembly | 🦀 Rust  
 - 🧬 Ghidra | ⚙️ IDA | 🐞 Radare2  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌀 Current Ops
+## Current Ops
 
 - 🧱 Writing shellcode  
 - 💀 Breaking binaries  

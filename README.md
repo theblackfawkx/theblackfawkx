@@ -1,4 +1,3 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px"> Hello World! I'm [theblackhawk](https://github.com/theblackhawk) 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=24&duration=3000&pause=1000&color=00F728&center=true&vCenter=true&width=435&lines=Open+Source+Developer;Python%2FC%2B%2B+Hacker;Security+Researcher;Flask%2FFastAPI+Dev;Bash+Scripting+Wizard" alt="Typing SVG" />
@@ -7,7 +6,7 @@
 ---
 
 ### 🔥 **About Me**
-- 🐍 Python | 🎮 C++ | 🐚 Bash scripting enthusiast
+- 🐍 Python | C++ | Bash scripting enthusiast
 - 🔥 Flask & FastAPI backend developer
 - 🔓 Security researcher & penetration tester
 - 💻 Open source contributor & hacker at heart
@@ -43,11 +42,11 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" width="48" height="48" alt="Metasploit" />
+      <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit.svg" width="48" height="48" alt="Metasploit" />
       <br>Metasploit
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" width="48" height="48" alt="Kali Linux" />
+      <img src="https://www.vectorlogo.zone/logos/kali-linux/kalilinux-icon.svg" width="48" height="48" alt="Kali Linux" />
       <br>Kali Linux
     </td>
     <td align="center" width="96">

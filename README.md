@@ -1,5 +1,5 @@
 <h1 align="center">
-  🦅 theblackfawkx
+  💀 theblackfawkx
 </h1>
 
 <p align="center">
@@ -8,9 +8,9 @@
 
 ---
 
-## 🕶About
+## About
 
-- 👾 Security enthusiast | 🐧 Linux native | 🛠️ Reverse engineer  
+- Hacker & Philosopher
 - Passionate about exploit development & low-level internals  
 - Always learning. Always lurking.  
 
@@ -18,17 +18,17 @@
 
 ## Tools
 
-- 🐍 Python | ⛏️ Assembly | 🦀 Rust  
-- 🧬 Ghidra | ⚙️ IDA | 🐞 Radare2  
-- 🌐 BurpSuite | 🕳️ nmap | 🔐 Metasploit
+- Python | Assembly | Rust  
+- Ghidra | IDA | Radare2  
+- BurpSuite | Nmap | Metasploit
 
 ---
 
 ## Current Ops
 
-- 🧱 Writing shellcode  
-- 💀 Breaking binaries  
-- 🌍 Operating in the shadows...
+- Writing shellcode  
+- Breaking binaries  
+- Operating in the shadows...
 
 ---
 

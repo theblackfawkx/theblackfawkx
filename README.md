@@ -8,8 +8,13 @@
 
 ---
 
-## About
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theblackfawkx&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## About
 - Hacker & Philosopher
 - Passionate about exploit development & low-level internals  
 - Always learning. Always lurking.  
@@ -17,7 +22,6 @@
 ---
 
 ## Tools
-
 - Python | Assembly | Rust  
 - Ghidra | IDA | Radare2  
 - BurpSuite | Nmap | Metasploit
@@ -25,13 +29,6 @@
 ---
 
 ## Current Ops
-
 - Writing shellcode  
 - Breaking binaries  
 - Operating in the shadows...
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theblackfawkx&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
